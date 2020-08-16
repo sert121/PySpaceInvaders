@@ -2,6 +2,7 @@ import pygame
 import os
 import time
 import random
+
 pygame.font.init()
 pygame.mixer.init()
 
